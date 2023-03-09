@@ -1,0 +1,1 @@
+Antennamérő műszer dokumentáció.
