@@ -1,1 +1,1 @@
-Antennamérő műszer dokumentáció.
+Antennamérő műszer dokumentáció..
